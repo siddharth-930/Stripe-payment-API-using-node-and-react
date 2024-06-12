@@ -1,3 +1,4 @@
+//api for stripe payment integration using node and react
 require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
